@@ -36,7 +36,7 @@
          &kp TAB  &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y                                                                       &kp U  &kp I  &kp O  &kp P  &kp MINUS 
 &kp ESC  &kp LEFT_ALT  &kp A  &kp S  &kp D  &kp F &kp G                                                                          &kp H  &kp J  &kp K  &kp L  &kp SEMI  &kp SQT  &kp HOME  
          &kp LSHIFT  &kp Z  &kp X  &kp C  &kp V  &kp B  &kp LEFT_PARENTHESIS  &kp END                         &kp HOME  &kp RIGHT_PARENTHESIS  &kp N  &kp M  &kp COMMA  &kp DOT  &kp FSLH  &kp BSLH  
-                                   &kp C_MUTE &kp LEFT_BRACKET &kp LEFT_CONTROL  &tdlayer 3 TAB  &tdlayer 2 SPACE    &tdlayer 1 BACKSPACE &kp RET  &kp EQUAL &kp RIGHT_BRACKET  &kp PRINTSCREEN
+                                   &kp C_MUTE &kp LEFT_BRACKET &kp LEFT_CONTROL  &tdlayer 3 TAB  &tdlayer 2 SPACE    &kp BACKSPACE &tdlayer 1 RET &kp EQUAL &kp RIGHT_BRACKET  &kp PRINTSCREEN
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN &inc_dec_kp PG_UP PG_DN>;
